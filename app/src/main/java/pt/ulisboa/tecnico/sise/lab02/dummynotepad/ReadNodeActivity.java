@@ -10,4 +10,6 @@ public class ReadNodeActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_read_node);
     }
+
+    // Isto é só uma experiência com um novo commit.
 }
