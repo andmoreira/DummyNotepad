@@ -12,4 +12,5 @@ public class ReadNodeActivity extends AppCompatActivity {
     }
 
     // Isto é só uma experiência com um novo commit.
+    // outro comentario
 }
